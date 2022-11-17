@@ -1,3 +1,5 @@
+#node_modules
+FrontEnd/app/node_modules
 # Logs
 logs
 *.log
